@@ -4,8 +4,8 @@
 
 Stefan Ragland, Dominion Labs Research & Development. Published 24 March 2026.
 
-- Paper (PDF): [`paper/reasoned-vs-believed.pdf`](paper/reasoned-vs-believed.pdf)
-- Paper (web): <https://dmnlabs.org/research/reasoned-vs-believed/>
+- Paper: <https://dmnlabs.org/research/reasoned-vs-believed/>
+- Paper (offline copy): [`paper/reasoned-vs-believed.html`](paper/reasoned-vs-believed.html)
 - Contact: research@dmnlabs.org
 
 ## The argument
