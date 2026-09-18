@@ -24,7 +24,7 @@ answers only what it can ground and abstains on the rest.
 
 | What | Result | Data |
 |---|---|---|
-| KNOW-50, re-run 17 September 2026 | 37 of 37 correct on the questions it chose to answer, 13 honest abstentions, zero language model calls | [`data/know-50.json`](data/know-50.json) |
+| KNOW-50, re-run 18 September 2026 | 37 of 37 correct on the questions it chose to answer, 13 honest abstentions, zero language model calls | [`data/know-50.json`](data/know-50.json) |
 | Asserting when the evidence admits several hypotheses | asserting on any one of them gives 26 assertions of false cases out of 192; asserting only what all of them support gives 0, while still reaching 73% of true cases | [`data/assertion-under-ambiguity.json`](data/assertion-under-ambiguity.json) |
 | An abstention that states its own remedy | the case the substrate asks for closes the ambiguity in 16 of 16 inductions, in a mean of 2.6 rounds; randomly chosen examples close 1 of 16 | [`data/closing-the-ambiguity.json`](data/closing-the-ambiguity.json) |
 
